@@ -1,2 +1,0 @@
-# lucasbemo-gohugo
-lucasbemo-gohugo
